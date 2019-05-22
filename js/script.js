@@ -1,5 +1,5 @@
 
-// sdafsad1fsad
+// 333
 var acc = document.getElementsByClassName("accordion");
 var i;
 
