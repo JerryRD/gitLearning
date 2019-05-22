@@ -1,4 +1,6 @@
-var acc = documen.getElementsByClassName("accordion");
+
+// sdafsad1fsad
+var acc = document.getElementsByClassName("accordion");
 var i;
 
 for (i = 0; i < acc.length; i++) {
